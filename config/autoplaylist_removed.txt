@@ -1,0 +1,30 @@
+# Entry removed Fri Mar 16 12:48:09 2018
+# Reason: ERROR: Sx3kpa51EyY: YouTube said: This video is not available.
+https://youtube.com/watch?v=Sx3kpa51EyY
+
+################################
+
+# Entry removed Fri Mar 16 12:55:33 2018
+# Reason: ERROR: OU87ugesC3Q: YouTube said: This video is not available.
+https://youtube.com/watch?v=OU87ugesC3Q
+
+################################
+
+# Entry removed Fri Mar 16 12:55:42 2018
+# Reason: ERROR: waLhF-tFv-Q: YouTube said: This video is not available.
+https://youtube.com/watch?v=waLhF-tFv-Q
+
+################################
+
+# Entry removed Fri Mar 16 13:53:03 2018
+# Reason: ERROR: IJ5jIOl957M: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=IJ5jIOl957M
+
+################################
+
+# Entry removed Fri Mar 16 13:55:22 2018
+# Reason: ERROR: OlKaVFqxERk: YouTube said: This video contains content from WMG, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=OlKaVFqxERk
+
+################################
+
